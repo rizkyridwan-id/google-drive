@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nagagold-drive",
+  "private_key_id": "9d35ce754d7c7e393f8394dca7cf3d99ed8c1b61",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7M6leH2y9eIP8\n6/gTFW84gHXj12aqofBs2B4HimqjkVjJ4RkllAwAQJzDJ0Qq4IKMX7k09xn9zwaQ\ny4hfdj7N0WQjKWXXOR8z8Jbq4wVef1Ao2s8l8h/36IJ76w6KDABlc9cA4OUX8BuE\nxk6RBEwZsCkUpDQ8ByE5gMohPCvtNOFeKcgU7Kzog5fpIRHx49xldZjd4oxw/S4V\nD/2S2KO/GhwbBs6TDkjnQZt012lstPj+QJtUKzRN3xctdy1oyFcqlldcymW4wQ6E\nUs4aLq0L/j+yfMU2/MY+Cpyg5ZvJfsujCkYR8aGcThHLkhrvS1qAo9XNRUwZP8gU\nzkOPJ56XAgMBAAECggEAMocCKuZ+ejGCJo0mWzhI2c5Kg6HLEzk8ZJR8nnpsyBNe\nDLdWCz+HcbX+2enKS2xnsC3SFoqvmEL9ua1F9MY8s17WEWuGEm5XjrRcd6+o7lWc\ntDpC+TH+EPLP7VSHixksLjXzDUimbSygsNi5sgif5bsXi3u6oY0nGZc6d3f/Pzm0\nKxumtz1lHcjDtkW9Kc29wrg0wmyljmdALY2e9HuDX3ZDo8uZSLnfmVXTWPCkJJiv\nnQd04HK+qr/vBTJTAbWG7QBzzbreioBCjHT9uKvJvwUKO9Csoa2qULrzfDi+X4i0\nuHWkyZqrzyybgnpFGyFg2i/bbv6SHspGRfu4LvyVUQKBgQD+bpYTAdvGG5pzrdWu\nUGaRMcwfI3phyuHeIGV5Ql0i+n+k7qL+XcnYLD61hZS9vK544iM5cYBvekTlaDi3\nP/KmCsflbW9quaHZD8AjTDXXfuXoi/cbV/vnmR9oTUzrK4xsgTOyHOM3ipC9mf90\nX7EoFJLDQv3XzXJ4AqFVTlJmbwKBgQC8WwHbu0LazOIsVecIOwbyIf3qDYPpBDGX\nWavEwgZspuHxTdT01StP0Urfla1fni79pXwL/m4r+k6Ug02njYofe2zGRthSJKp1\n1QXVv6qBFExSN7AEdmEJvKZBYMcBzWonqFaU5PTdYvdlbcuPxpq7kVKQn+34d1Qx\nhCx3FA8eWQKBgGMDZiO/dWeDFnguDhnn8AJQ/r6fb+Des0deFB88VEJoeYQV2hhj\nJ0mY7k51zYyJANzKJCsWoITBcE5WYLvvht5XE7OVAubllraCCqOx5MIYACCfV2qs\nsrtOO4q7ilN6fws6vINz+niC1BD0/RSsqKSQXQzf5Sk2KnXJkD9CW47BAoGAYF6D\nzeO6qe3nzl1JLmnc/OetXSH7Gq59nP1RKANJfC/KLEbxLS8f0N+5WjnfkauCSV5w\n4EYWIkQYDl47zf1Z7Q+eMLgwl56Q5GbQbHN7Dj3PasV5Nl9G+M9flNWqHF738EBt\nxBJ8wgSPpYKOgwpPQqZwwvRAsj6Dgi4o/efycEkCgYEA/RTYbrh0OPzLsdhF+4AO\nyU0yi79iqiEJbpBqtejQLXv1MjO1uCBDK5N8RYRV7Mouv9NBEXwgY7B7hQUULceI\nPcLY1A4WAtxfJJhDE4GALl5uS63oqM6am+H/haAIEJJHgfu9S7jwIDsxnaPySWcz\n0fCt7MtJ6HpLhfvrC2Q9k8o=\n-----END PRIVATE KEY-----\n",
+  "client_email": "nagagold-drive-service@nagagold-drive.iam.gserviceaccount.com",
+  "client_id": "117672165403592838639",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nagagold-drive-service%40nagagold-drive.iam.gserviceaccount.com"
+}
